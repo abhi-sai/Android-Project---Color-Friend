@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_6c456892d4f20455bc0e98322372e8c6708b465b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e7bff9fcb2949989da2fed734ab404756c9212f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_39361fa4db19d7d202abc91b0de19bec042a8dad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_c7d6bf2a52e906373018fe0a81aca17ed59c3b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_e99bb0668641601c3655d47385d17f9f802ea615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_66b123567c4e79757b29d7359bdf90faaaf2427b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5751fa5a658c6e7fcc1b6d36d403b18577e7664">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_828c04b0d477c88345b841ecf97d4e03e037780e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_ecb1dd615d508d01b60c9d8ca68ace86eb1200bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_ab14b35a3821a0ffd4061b7a81ce702493cde5d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_6a1639d4d0da7c912dfe13172c1ccfae9564af41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8b19ec56b55f5e3b068c0164bb286fa92277cae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_305e9e80e2c28880f261fa205749244d4a86f87c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_73b8dd493c57772d09102b7340e355e00ae05da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_4a69f5df447bd7ba6c7ea42d2f6169c6c55dfe8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_9af59a85bb431e21131e5ec13398a531217346e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_a0044fd4a81c37c8f85537b608302761b3ff1866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ccab637eb42c749ca801b90f319259be5fb8da0">
+        <dex dex="C:\Users\abhis\Downloads\color-blob-detection\openCVSamplecolorblobdetection\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bfe6fa85cc535913d9a7b153f045251f1e5d27d5\classes.dex" />
+    </item>
+
+</items>

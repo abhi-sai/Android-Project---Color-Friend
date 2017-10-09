@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/color_blind_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:orientation="vertical"
+    android:background="#FF8A65"
+    tools:context="org.opencv.samples.colorblobdetect.ColorBlindTest">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:textColor="#B71C1C"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:fontFamily="casual"
+        android:text="ISHIHARA COLOR TEST INSTRUCTIONS" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textSize="17sp"
+        android:text="- Hold the screen approximately 75 cm from you, with each circle set at eye level." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="17sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="- Interior lights and glare can alter the color of the pictures." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="17sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="- Attempt to identify the hidden number or line within 5 seconds then tap the image." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="17sp"
+        android:layout_marginTop="8dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="15dp"
+        android:text="- Upon tapping, the answer will be revealed along with an analysis explaining your condition if you got it wrong. Complete all the test plates to help gauge your color blindness severity." />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="17sp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="10dp"
+        android:text="Note that this test cannot guarantee complete accuracy. Your screen and quality loss of images may affect the original colors used." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textColor="@android:color/black"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:textStyle="bold"
+        android:textSize="17sp"
+        android:layout_marginBottom="15dp"
+        android:text="Should these tests suggest that you may be color blind, you should seek professional confirmation." />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/white"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="START TEST"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#004D40"
+        android:background="?android:attr/selectableItemBackground"
+        android:onClick="StartColorBlindTest"
+        android:id="@+id/StartColorBlindTest"/>
+</LinearLayout>

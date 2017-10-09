@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Friend</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="plate1r">\"12\" All people should see a number 12, including those with total color blindness.</string>
+    <string name="plate2r">\"8\" Those with normal color vision see an 8.\n \"3\" Those with red green color blindness see a 3.\n \"Nothing\" Those with total color blindness see nothing.</string>
+    <string name="plate3r">\"29\"	Those with normal color vision see a 29.\n \"70\" Those with red green color blindness see a 70.\n \"Nothing\" Those with total color blindness see nothing.</string>
+    <string name="plate4r">\"5\"	Those with normal color vision see a 5.\n \"2\" Those with red green color blindness see a 2.\n \"Nothing\"	Those with total color blindness see nothing.</string>
+    <string name="plate5r">\"3\"	Those with normal color vision see a 3.\n \"5\"	Those with red green color blindness see a 5.\n \"Nothing\"	Those with total color blindness see nothing.</string>
+    <string name="plate6r">\"15\"	Those with normal color vision see a 15.\n \"17\" Those with red green color blindness see a 17.\n \"Nothing\" Those with total color blindness see nothing.</string>
+    <string name="plate7r">\"74\"	Those with normal color vision see a 74.\n \"21\" Those with red green color blindness see a 21.\n \"Nothing\" Those with total color blindness see nothing.</string>
+    <string name="plate8r">\"6\"	Those with normal color vision see a 6.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate9r">\"45\"	Those with normal color vision see a 45.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate10r">\"5\"	Those with normal color vision see a 5.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate11r">\"7\"	Those with normal color vision see a 7.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate12r">\"16\" Those with normal color vision see a 16.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate13r">\"73\" Those with normal color vision see a 73.\n \"Nothing\" The majority of color blind people cannot see this number clearly.</string>
+    <string name="plate14r">\"Nothing\" People with normal vision or total color blindness should not be able to see any number.\n \"5\" Those with red green color blindness should see a 5.</string>
+    <string name="plate15r">\"Nothing\" People with normal vision or total color blindness should not be able to see any number.\n \"45\" Those with red green color blindness should see a 45.</string>
+    <string name="plate16r">\"26\" Those with normal color vision should see a 26.\n \"6, faint 2\"	Red color blind (protanopia) people will see a 6, mild red color blind people (prontanomaly) will also faintly see a number 2.\n "2, faint 6"	Green color blind (deuteranopia) people will see a 2, mild green color blind people (deuteranomaly) may also faintly see a number 6.</string>
+    <string name="plate17r">\"42\" Those with normal color vision should see a 42.\n \"2, faint 4\"	Red color blind (protanopia) people will see a 2, mild red color blind people (prontanomaly) will also faintly see a number 4.\n "4, faint 2"	Green color blind (deuteranopia) people will see a 4, mild green color blind people (deuteranomaly) may also faintly see a number 2.</string>
+    <string name="plate18r">Those with normal color vision should be able to trace along both the purple and red lines.\n Those with Protanopia (red colorblind) should be able to trace the purple line, those with protanomaly (weak red vision) may be able to trace the red line, with increased difficulty.\n Those with Deuteranopia (green color blind) should be able to trace the red line, those with Deuteranomaly (weak green vision) may be able to trace the purple line, with increased difficulty.</string>
+    <string name="plate19r">Those with normal color vision or total color blindness should be unable to trace the line.\n Most people with red green color blindness can trace the wiggly line, depending on the severity of the condition.</string>
+    <string name="plate20r">Those with normal color vision should be able to trace a green wiggly line.\n Most people with any form of color blindness will be unable to trace the correct line.</string>
+    <string name="plate21r">Those with normal color vision should be able to trace an orange wiggly line.\n Most people with any form of color blindness will be unable to trace the correct line.</string>
+    <string name="plate22r">Those with normal color vision should be able to trace the blue-green/yellow-green wiggly line.\n Red green color blind people will trace the blue-green and red line.\n People with total color blindness will be unable to trace any line.</string>
+    <string name="plate23r">Those with normal color vision should be able to trace the red and orange wiggly line.\n Red green color blind people will trace the red and blue-green wiggly line.\n People with total color blindness will be unable to trace any line.</string>
+    <string name="plate24r">Congratulations, you made it to the end! Everyone should be able to trace this wiggly line.</string>
+</resources>

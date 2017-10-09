@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [Color Friend:openCVLibrary320:unspecified] C:\College\Project\Color Friend\openCVLibrary320\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\abhis\.android\build-cache\59b584db205d286e6de875a49c900563356bfeb5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\abhis\.android\build-cache\7b3b62c62d12af8d52f427719e422454c93d9feb\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\abhis\.android\build-cache\e949b149f26d5cb2e5653972489f4f62b994b690\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\abhis\.android\build-cache\60ec236753cf09471ba5669b150bd4d48e4108e7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\abhis\.android\build-cache\0669cb1326771fb8a7afb5fc67271135131e827b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\abhis\.android\build-cache\26c2354b4134115a0e7b416d83b972dc79ee5b4c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\abhis\.android\build-cache\f0482b8ed314e3a60637cd0ae58d2bde83d709d3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\abhis\.android\build-cache\299d97dcb2e828cc1c158b31e7cade87cd223703\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\abhis\.android\build-cache\c2c1bf4f5745be296931cc2ddf3ec2d6da0f4309\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\abhis\.android\build-cache\9f638a0900897d8548781a5460a99684a6597a19\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\abhis\.android\build-cache\3737d9ed6830239a22dd9940fa1492417ea2fa9e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\abhis\.android\build-cache\ed8ddd17fa9dc7734f57fc30a6cc02392e65ab51\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\abhis\.android\build-cache\60ec236753cf09471ba5669b150bd4d48e4108e7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+		INJECTED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:16:9-36
+	android:normalScreens
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:15:9-34
+	android:anyDensity
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.CAMERA
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:18:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:20:5-22:35
+	android:required
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:21:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:23:5-25:35
+	android:required
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:25:9-32
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:24:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:27:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:30:9-63
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:33:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:34:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:35:30-85
+application
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:37:5-74:19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\abhis\.android\build-cache\59b584db205d286e6de875a49c900563356bfeb5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\abhis\.android\build-cache\7b3b62c62d12af8d52f427719e422454c93d9feb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\abhis\.android\build-cache\e949b149f26d5cb2e5653972489f4f62b994b690\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\abhis\.android\build-cache\60ec236753cf09471ba5669b150bd4d48e4108e7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\abhis\.android\build-cache\0669cb1326771fb8a7afb5fc67271135131e827b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\abhis\.android\build-cache\26c2354b4134115a0e7b416d83b972dc79ee5b4c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\abhis\.android\build-cache\f0482b8ed314e3a60637cd0ae58d2bde83d709d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\abhis\.android\build-cache\299d97dcb2e828cc1c158b31e7cade87cd223703\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\abhis\.android\build-cache\c2c1bf4f5745be296931cc2ddf3ec2d6da0f4309\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\abhis\.android\build-cache\9f638a0900897d8548781a5460a99684a6597a19\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\abhis\.android\build-cache\3737d9ed6830239a22dd9940fa1492417ea2fa9e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\abhis\.android\build-cache\ed8ddd17fa9dc7734f57fc30a6cc02392e65ab51\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:38:9-38
+	android:theme
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:40:9-67
+activity#org.opencv.samples.colorblobdetect.MainActivity
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:41:9-49:20
+	android:label
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:42:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:47:27-74
+activity#org.opencv.samples.colorblobdetect.ColorBlobDetectionActivity
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:50:9-54:53
+	android:screenOrientation
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:54:13-50
+	android:label
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:53:13-45
+	android:configChanges
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:51:13-55
+activity#org.opencv.samples.colorblobdetect.ColorBlindTest
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:55:9-59:52
+	android:screenOrientation
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:58:13-45
+	android:configChanges
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:56:13-43
+activity#org.opencv.samples.colorblobdetect.Daltonize
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:60:9-65:57
+	android:screenOrientation
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:63:13-42
+	android:parentActivityName
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:65:13-55
+	android:configChanges
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:61:13-38
+meta-data#com.google.android.gms.version
+ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:70:9-72:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\abhis\.android\build-cache\e949b149f26d5cb2e5653972489f4f62b994b690\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from C:\College\Project\Color Friend\ColorFriend\src\main\AndroidManifest.xml:71:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\abhis\.android\build-cache\f2962297aaedbb2429405028576ebd52533a760e\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\abhis\.android\build-cache\40d99b6dcef080f0ed0e9e868db73b09babaddf4\output\AndroidManifest.xml:6:79-124

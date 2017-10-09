@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate19.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate19.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate5.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate5.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate21.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate21.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate17r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate17r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate20.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate20.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate4.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate4.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate18.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate18.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate4r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate4r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate23.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate23.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate1r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate1r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate7.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate7.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate22r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate22r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate10.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate10.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate11r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate11r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate18r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate18r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate24r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate24r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate16.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate16.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate9.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate9.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate6.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate6.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate3.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate3.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate3r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate3r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate9r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate9r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate22.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate22.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate12r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate12r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate16r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate16r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate2r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate2r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate19r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate19r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate13r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate13r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate23r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate23r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate13.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate13.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate5r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate5r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate10r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate10r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate8r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate8r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate1.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate1.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate12.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate12.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate15.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate15.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\f2962297aaedbb2429405028576ebd52533a760e\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate24.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate24.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate21r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate21r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate8.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate8.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate14r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate14r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate7r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate7r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate2.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate2.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate20r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate20r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate6r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate6r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate15r.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate15r.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate14.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate14.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\abhis\\.android\\build-cache\\60ec236753cf09471ba5669b150bd4d48e4108e7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate17.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate17.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\plate11.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\plate11.png"
+    },
+    {
+        "merged": "C:\\College\\Project\\Color Friend\\ColorFriend\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\College\\Project\\Color Friend\\ColorFriend\\src\\main\\res\\drawable\\icon.png"
+    }
+]
